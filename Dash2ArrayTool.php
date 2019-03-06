@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Dash2Array;
+namespace Ling\Dash2Array;
 
-use Dash2Array\Node\Node;
-use Dash2Array\Node\NodeInterface;
+use Ling\Dash2Array\Node\Node;
+use Ling\Dash2Array\Node\NodeInterface;
 
 /**
  * Class Dash2ArrayTool

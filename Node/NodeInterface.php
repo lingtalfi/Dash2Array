@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Dash2Array\Node;
+namespace Ling\Dash2Array\Node;
 
 
 interface NodeInterface

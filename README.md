@@ -17,7 +17,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import Dash2Array
+uni import Ling/Dash2Array
 ```
 
 Or just download it and place it where you want otherwise.
